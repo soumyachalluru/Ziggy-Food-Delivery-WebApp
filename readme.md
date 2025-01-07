@@ -27,11 +27,6 @@ This repository contains a food delivery web application similar to UberEats. Th
 
 ## Local Development
 To set up and run the application locally, follow these steps:
-
-### Prerequisites
-- Ensure you have Node.js and Python installed.
-- Set up the database (PostgreSQL is recommended).
-
 ## How to run
 
 ### Backend
@@ -46,5 +41,3 @@ To set up and run the application locally, follow these steps:
 1. `cd Frontend/ziggy-client`
 2. `npm install`
 3. `npm run dev`
-
-visit http://localhost:5173 in the browser to view the UI
